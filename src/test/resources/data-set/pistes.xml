@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <piste
+            num_piste="1"
+            name_piste="Piste de test"
+            length="2000"
+            slope="5"
+    />
+</dataset>
